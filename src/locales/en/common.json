@@ -1,0 +1,10 @@
+{
+  "promptMessage": "Hover here to begin your adventure",
+  "appTitle": "AshAnime",
+  "searchPlaceholder": "Search anime...",
+  "noResultsFound": "No results found.",
+  "noSynopsis": "No synopsis available.",
+  "failedToLoadDetails": "Failed to load anime details.",
+  "backToSearch": "Back to Search",
+  "genre": "Genre"
+}
